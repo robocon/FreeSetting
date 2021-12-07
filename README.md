@@ -1,0 +1,2 @@
+# FreeSetting
+SHS Free Setting
